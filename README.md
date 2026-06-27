@@ -13,6 +13,7 @@ I am an **Electrical Engineering student at NIT Jamshedpur**, blending core anal
 * 💻 Deepening my expertise in **C++** and Core Computer Science fundamentals.
 * 🏆 Actively practicing **Competitive Programming (CP)** on **Codeforces**.
 * 🧠 Cracking **Data Structures & Algorithms (DSA)** problems daily on **LeetCode**.
+*  Learning Web development .
 
 ---
 
